@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10576e5c-a941-400e-b4ca-e219a03f71c0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/DailyLog/0517.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -30,8 +32,20 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="507">
+              <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DailyLog/0517.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="600">
+                <caret line="49" selection-start-line="49" selection-end-line="49" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -87,11 +101,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ts/tsStudy/01/dali.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ts/tsStudy/01/hello.js">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -104,6 +113,7 @@
       <find>ts.clone</find>
       <find>clone</find>
       <find>outD</find>
+      <find>node</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/ts/tsStudy/01/node_modules/.bin</dir>
@@ -122,26 +132,15 @@
         <option value="$PROJECT_DIR$/ts/tsStudy/express-ts/package.json" />
         <option value="$PROJECT_DIR$/ts/tsStudy/express-ts/src/server.ts" />
         <option value="$PROJECT_DIR$/ts/tsStudy/03.basicStudy.md" />
+        <option value="$PROJECT_DIR$/DailyLog/0517.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-        <option value="$PROJECT_DIR$/.idea/snackTil.iml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2569" />
+    <option name="x" value="2166" />
     <option name="y" value="-178" />
-    <option name="width" value="1680" />
+    <option name="width" value="2083" />
     <option name="height" value="1027" />
   </component>
   <component name="ProjectView">
@@ -156,6 +155,16 @@
               <item name="snackTil" type="b2602c69:ProjectViewProjectNode" />
               <item name="snackTil" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="snackTil" type="b2602c69:ProjectViewProjectNode" />
+              <item name="snackTil" type="462c0819:PsiDirectoryNode" />
+              <item name="DailyLog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="snackTil" type="b2602c69:ProjectViewProjectNode" />
+              <item name="snackTil" type="462c0819:PsiDirectoryNode" />
+              <item name="DRF" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -164,8 +173,9 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/DailyLog" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
@@ -174,6 +184,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/ts/tsStudy/01/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/DailyLog" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -202,18 +217,18 @@
       <workItem from="1558092380809" duration="117000" />
       <workItem from="1558092511834" duration="42000" />
       <workItem from="1558092565695" duration="78000" />
-      <workItem from="1558092656867" duration="4654000" />
+      <workItem from="1558092656867" duration="6160000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5006000" />
+    <option name="totallyTimeSpent" value="6512000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2569" y="-178" width="1680" height="1027" extended-state="0" />
+    <frame x="2166" y="-178" width="2083" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25244498" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20255028" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="TypeScript" />
@@ -226,7 +241,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3297062" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.21762785" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -337,10 +352,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/DailyLog/0517.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="600">
+            <caret line="49" selection-start-line="49" selection-end-line="49" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="507">
+          <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
         </state>
       </provider>
     </entry>
