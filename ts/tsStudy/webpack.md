@@ -2,7 +2,6 @@
 
 * 모듈번들러 
 
-
 1.path 
 path모듈을 이용해서 경로 지정 
 
@@ -65,6 +64,11 @@ use에 사용할 로더를 넣고 test에 매칭할 파일 정규식을 적어�
 2.4 Plugins
 
 플러그인을 사용하면 번들 최적화,  환경 변수 주입과 같은 광범위한 작업을 수행 할 수 있습니다
+
+대표 플러그인은 요거 2가지가 있다. 
+* HtmlWebpackPlugin
+* MiniCssExtractPlugin
+
 
 2.5 Mode
 
