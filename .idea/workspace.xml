@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="10576e5c-a941-400e-b4ca-e219a03f71c0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fpStudy/algorithm/0525.js" beforeDir="false" afterPath="$PROJECT_DIR$/fpStudy/algorithm/0525.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fpStudy/algorithm/programmers/02_study_todo/02phone_number.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fpStudy/algorithm/programmers/02_study_todo/Hash.md" beforeDir="false" afterPath="$PROJECT_DIR$/fpStudy/algorithm/programmers/02_study_todo/Hash.md" afterDir="false" />
-    </list>
+    <list default="true" id="10576e5c-a941-400e-b4ca-e219a03f71c0" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -19,20 +14,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ts/ReadMe.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/fpStudy/algorithm/0525.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/fpStudy/algorithm/0525.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+        <entry file="file://$PROJECT_DIR$/DailyLog/0528.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="530">
+                <caret line="58" selection-start-line="58" selection-end-line="58" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -160,6 +157,7 @@
         <option value="$PROJECT_DIR$/mooc/youtube/growth.01.md" />
         <option value="$PROJECT_DIR$/ts/tsStudy/ENum.md" />
         <option value="$PROJECT_DIR$/fpStudy/algorithm/0525.js" />
+        <option value="$PROJECT_DIR$/DailyLog/0528.md" />
       </list>
     </option>
   </component>
@@ -183,13 +181,12 @@
             <path>
               <item name="snackTil" type="b2602c69:ProjectViewProjectNode" />
               <item name="snackTil" type="462c0819:PsiDirectoryNode" />
-              <item name="fpStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="DailyLog" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="snackTil" type="b2602c69:ProjectViewProjectNode" />
               <item name="snackTil" type="462c0819:PsiDirectoryNode" />
               <item name="fpStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="snackTil" type="b2602c69:ProjectViewProjectNode" />
@@ -206,7 +203,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/DailyLog" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
@@ -217,12 +214,12 @@
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/ts/tsStudy/01/node_modules/typescript/lib" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/DailyLog" />
+      <recent name="$PROJECT_DIR$/ts/tsStudy" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/inf/interaction" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/ts/tsStudy" />
-      <recent name="$PROJECT_DIR$/DailyLog" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -257,17 +254,18 @@
       <workItem from="1558504946657" duration="2632000" />
       <workItem from="1558695214041" duration="3093000" />
       <workItem from="1559127440980" duration="86000" />
+      <workItem from="1559141048129" duration="840000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13926000" />
+    <option name="totallyTimeSpent" value="14766000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15831296" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1601467" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -279,7 +277,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.1493776" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.23236515" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="TypeScript" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -518,6 +516,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DailyLog/0528.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="530">
+            <caret line="58" selection-start-line="58" selection-end-line="58" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
