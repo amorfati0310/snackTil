@@ -2,7 +2,6 @@ function solution(array, commands) {
   console.log(commands)
   
   return commands.map(command => {
-    console.log(array.slice(command[0]-1, command[1]))
     return array.slice(command[0]-1, command[1]).sort((a,b)=>a-b)[command[2]-1]
   })
 }
