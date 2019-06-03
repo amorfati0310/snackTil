@@ -70,21 +70,21 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jsAlgorithm/countSort.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="6" column="2" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+            <state relative-caret-position="320">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mooc/youtube/growth.01.md">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DailyLog/0603.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="210">
-                <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <first_editor relative-caret-position="569">
+                <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
               </first_editor>
               <second_editor />
             </state>
@@ -163,6 +163,7 @@
         <option value="$PROJECT_DIR$/jsAlgorithm/01.md" />
         <option value="$PROJECT_DIR$/DailyLog/0531.md" />
         <option value="$PROJECT_DIR$/jsAlgorithm/countSort.js" />
+        <option value="$PROJECT_DIR$/DailyLog/0603.md" />
       </list>
     </option>
   </component>
@@ -208,7 +209,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/jsAlgorithm" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/DailyLog" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
@@ -220,8 +221,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/jsAlgorithm" />
       <recent name="$PROJECT_DIR$/DailyLog" />
+      <recent name="$PROJECT_DIR$/jsAlgorithm" />
       <recent name="$PROJECT_DIR$/ts/tsStudy" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -260,12 +261,12 @@
       <workItem from="1558504946657" duration="2632000" />
       <workItem from="1558695214041" duration="3093000" />
       <workItem from="1559127440980" duration="86000" />
-      <workItem from="1559141048129" duration="5966000" />
+      <workItem from="1559141048129" duration="8043000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19892000" />
+    <option name="totallyTimeSpent" value="21969000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2" y="23" width="1678" height="1027" extended-state="6" />
@@ -567,8 +568,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/jsAlgorithm/countSort.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="2" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+        <state relative-caret-position="320">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DailyLog/0603.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="569">
+            <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
