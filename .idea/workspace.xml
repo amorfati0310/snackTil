@@ -79,7 +79,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DailyLog/0603.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -91,12 +91,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ts/tsStudy/ENum.md">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DailyLog/0604.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="210">
-                <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <first_editor relative-caret-position="501">
+                <caret line="52" column="26" selection-start-line="52" selection-start-column="26" selection-end-line="52" selection-end-column="26" />
               </first_editor>
               <second_editor />
             </state>
@@ -164,12 +164,14 @@
         <option value="$PROJECT_DIR$/DailyLog/0531.md" />
         <option value="$PROJECT_DIR$/jsAlgorithm/countSort.js" />
         <option value="$PROJECT_DIR$/DailyLog/0603.md" />
+        <option value="$PROJECT_DIR$/DailyLog/0604.md" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
-    <option name="width" value="1680" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1701" />
+    <option name="y" value="-178" />
+    <option name="width" value="1887" />
     <option name="height" value="1027" />
   </component>
   <component name="ProjectView">
@@ -261,18 +263,18 @@
       <workItem from="1558504946657" duration="2632000" />
       <workItem from="1558695214041" duration="3093000" />
       <workItem from="1559127440980" duration="86000" />
-      <workItem from="1559141048129" duration="8043000" />
+      <workItem from="1559141048129" duration="11297000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21969000" />
+    <option name="totallyTimeSpent" value="25223000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2" y="23" width="1678" height="1027" extended-state="6" />
+    <frame x="1701" y="-178" width="1887" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2858017" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2858017" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -284,7 +286,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.2437432" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.19586506" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="TypeScript" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -578,6 +580,16 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="569">
             <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DailyLog/0604.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="501">
+            <caret line="52" column="26" selection-start-line="52" selection-start-column="26" selection-end-line="52" selection-end-column="26" />
           </first_editor>
           <second_editor />
         </state>
