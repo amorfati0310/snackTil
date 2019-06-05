@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="10576e5c-a941-400e-b4ca-e219a03f71c0" name="Default Changelist" comment="" />
+    <list default="true" id="10576e5c-a941-400e-b4ca-e219a03f71c0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -14,19 +16,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fpStudy/algorithm/0525.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DailyLog/0528.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="476">
+              <first_editor relative-caret-position="1134">
                 <caret line="54" column="45" selection-start-line="54" selection-start-column="45" selection-end-line="54" selection-end-column="45" />
               </first_editor>
               <second_editor />
@@ -38,7 +31,7 @@
         <entry file="file://$PROJECT_DIR$/DailyLog/0529.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="518">
+              <first_editor relative-caret-position="1617">
                 <caret line="77" column="41" selection-start-line="77" selection-start-column="41" selection-end-line="77" selection-end-column="41" />
               </first_editor>
               <second_editor />
@@ -50,7 +43,7 @@
         <entry file="file://$PROJECT_DIR$/jsAlgorithm/01.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="452">
+              <first_editor relative-caret-position="1407">
                 <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
               </first_editor>
               <second_editor />
@@ -73,8 +66,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jsAlgorithm/countSort.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="336">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -83,7 +76,7 @@
         <entry file="file://$PROJECT_DIR$/DailyLog/0603.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="569">
+              <first_editor relative-caret-position="1596">
                 <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
               </first_editor>
               <second_editor />
@@ -91,12 +84,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DailyLog/0604.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="501">
-                <caret line="52" column="26" selection-start-line="52" selection-start-column="26" selection-end-line="52" selection-end-column="26" />
+              <first_editor relative-caret-position="102">
+                <caret line="33" column="12" lean-forward="true" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DailyLog/0605.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="319">
+                <caret line="38" column="54" selection-start-line="38" selection-start-column="54" selection-end-line="38" selection-end-column="54" />
               </first_editor>
               <second_editor />
             </state>
@@ -165,13 +170,14 @@
         <option value="$PROJECT_DIR$/jsAlgorithm/countSort.js" />
         <option value="$PROJECT_DIR$/DailyLog/0603.md" />
         <option value="$PROJECT_DIR$/DailyLog/0604.md" />
+        <option value="$PROJECT_DIR$/DailyLog/0605.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1701" />
+    <option name="x" value="1704" />
     <option name="y" value="-178" />
-    <option name="width" value="1887" />
+    <option name="width" value="1884" />
     <option name="height" value="1027" />
   </component>
   <component name="ProjectView">
@@ -222,13 +228,13 @@
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/ts/tsStudy/01/node_modules/typescript/lib" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/inf/interaction" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/DailyLog" />
       <recent name="$PROJECT_DIR$/jsAlgorithm" />
       <recent name="$PROJECT_DIR$/ts/tsStudy" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/inf/interaction" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -263,18 +269,19 @@
       <workItem from="1558504946657" duration="2632000" />
       <workItem from="1558695214041" duration="3093000" />
       <workItem from="1559127440980" duration="86000" />
-      <workItem from="1559141048129" duration="11297000" />
+      <workItem from="1559141048129" duration="11411000" />
+      <workItem from="1559743609106" duration="738000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25223000" />
+    <option name="totallyTimeSpent" value="26075000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1701" y="-178" width="1887" height="1027" extended-state="0" />
+    <frame x="1704" y="-178" width="1884" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2858017" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2853261" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -508,30 +515,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ts/tsStudy/01/dali.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DailyLog/0523.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="777">
-            <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fpStudy/algorithm/0525.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
-          <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+          <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DailyLog/0528.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="476">
+          <first_editor relative-caret-position="1134">
             <caret line="54" column="45" selection-start-line="54" selection-start-column="45" selection-end-line="54" selection-end-column="45" />
           </first_editor>
           <second_editor />
@@ -541,7 +535,7 @@
     <entry file="file://$PROJECT_DIR$/DailyLog/0529.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="518">
+          <first_editor relative-caret-position="1617">
             <caret line="77" column="41" selection-start-line="77" selection-start-column="41" selection-end-line="77" selection-end-column="41" />
           </first_editor>
           <second_editor />
@@ -551,7 +545,7 @@
     <entry file="file://$PROJECT_DIR$/jsAlgorithm/01.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="452">
+          <first_editor relative-caret-position="1407">
             <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
           </first_editor>
           <second_editor />
@@ -570,16 +564,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/jsAlgorithm/countSort.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="336">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DailyLog/0603.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="569">
+          <first_editor relative-caret-position="1596">
             <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ts/tsStudy/01/dali.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DailyLog/0523.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="777">
+            <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
           </first_editor>
           <second_editor />
         </state>
@@ -588,8 +595,18 @@
     <entry file="file://$PROJECT_DIR$/DailyLog/0604.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="501">
-            <caret line="52" column="26" selection-start-line="52" selection-start-column="26" selection-end-line="52" selection-end-column="26" />
+          <first_editor relative-caret-position="102">
+            <caret line="33" column="12" lean-forward="true" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DailyLog/0605.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="319">
+            <caret line="38" column="54" selection-start-line="38" selection-start-column="54" selection-end-line="38" selection-end-column="54" />
           </first_editor>
           <second_editor />
         </state>
