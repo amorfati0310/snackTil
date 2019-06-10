@@ -3,31 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="10576e5c-a941-400e-b4ca-e219a03f71c0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DailyLog/0507.md" beforeDir="false" afterPath="$PROJECT_DIR$/DailyLog/1905/0507.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DailyLog/0508.md" beforeDir="false" afterPath="$PROJECT_DIR$/DailyLog/1905/0508.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DailyLog/0509.md" beforeDir="false" afterPath="$PROJECT_DIR$/DailyLog/1905/0509.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DailyLog/0510.md" beforeDir="false" afterPath="$PROJECT_DIR$/DailyLog/1905/0510.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DailyLog/0511.md" beforeDir="false" afterPath="$PROJECT_DIR$/DailyLog/1905/0511.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DailyLog/0513.md" beforeDir="false" afterPath="$PROJECT_DIR$/DailyLog/1905/0513.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DailyLog/0514.md" beforeDir="false" afterPath="$PROJECT_DIR$/DailyLog/1905/0514.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DailyLog/0515.md" beforeDir="false" afterPath="$PROJECT_DIR$/DailyLog/1905/0515.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DailyLog/0516.md" beforeDir="false" afterPath="$PROJECT_DIR$/DailyLog/1905/0516.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DailyLog/0517.md" beforeDir="false" afterPath="$PROJECT_DIR$/DailyLog/1905/0517.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DailyLog/0518.md" beforeDir="false" afterPath="$PROJECT_DIR$/DailyLog/1905/0518.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DailyLog/0519.md" beforeDir="false" afterPath="$PROJECT_DIR$/DailyLog/1905/0519.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DailyLog/0520.md" beforeDir="false" afterPath="$PROJECT_DIR$/DailyLog/1905/0520.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DailyLog/0521.md" beforeDir="false" afterPath="$PROJECT_DIR$/DailyLog/1905/0521.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DailyLog/0522.md" beforeDir="false" afterPath="$PROJECT_DIR$/DailyLog/1905/0522.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DailyLog/0523.md" beforeDir="false" afterPath="$PROJECT_DIR$/DailyLog/1905/0523.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DailyLog/0525.md" beforeDir="false" afterPath="$PROJECT_DIR$/DailyLog/1905/0525.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DailyLog/0526.md" beforeDir="false" afterPath="$PROJECT_DIR$/DailyLog/1905/0526.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DailyLog/0528.md" beforeDir="false" afterPath="$PROJECT_DIR$/DailyLog/1905/0528.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DailyLog/0529.md" beforeDir="false" afterPath="$PROJECT_DIR$/DailyLog/1905/0529.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DailyLog/0531.md" beforeDir="false" afterPath="$PROJECT_DIR$/DailyLog/1905/0531.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DailyLog/0603.md" beforeDir="false" afterPath="$PROJECT_DIR$/DailyLog/1906/0603.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DailyLog/0604.md" beforeDir="false" afterPath="$PROJECT_DIR$/DailyLog/1906/0604.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DailyLog/0605.md" beforeDir="false" afterPath="$PROJECT_DIR$/DailyLog/1906/0605.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inf/interaction/interaction.01.md" beforeDir="false" afterPath="$PROJECT_DIR$/inf/interaction/interaction.01.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -40,27 +15,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DailyLog/1905/0531.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="504">
-                <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jsAlgorithm/countSort.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DailyLog/1906/0603.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -78,7 +32,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="105">
-                <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+                <caret line="5" selection-start-line="5" selection-end-line="5" />
               </first_editor>
               <second_editor />
             </state>
@@ -101,7 +55,7 @@
         <entry file="file://$PROJECT_DIR$/DailyLog/1906/0605.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="214">
+              <first_editor relative-caret-position="693">
                 <caret line="33" column="52" selection-start-line="33" selection-start-column="52" selection-end-line="33" selection-end-column="52" />
               </first_editor>
               <second_editor />
@@ -114,7 +68,31 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="231">
-                <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+                <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DailyLog/1906/0607.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="1113">
+                <caret line="53" column="60" selection-start-line="53" selection-start-column="60" selection-end-line="53" selection-end-column="60" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DailyLog/1906/0608.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="647">
+                <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
               </first_editor>
               <second_editor />
             </state>
@@ -122,11 +100,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DailyLog/1906/0607.md">
+        <entry file="file://$PROJECT_DIR$/DailyLog/1906/0610.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="210">
-                <caret line="53" column="60" selection-start-line="53" selection-start-column="60" selection-end-line="53" selection-end-column="60" />
+              <first_editor relative-caret-position="409">
+                <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
               </first_editor>
               <second_editor />
             </state>
@@ -199,14 +177,16 @@
         <option value="$PROJECT_DIR$/DailyLog/1906/0606.md" />
         <option value="$PROJECT_DIR$/inf/interaction/interaction.01.md" />
         <option value="$PROJECT_DIR$/DailyLog/1906/0607.md" />
+        <option value="$PROJECT_DIR$/DailyLog/1906/0608.md" />
+        <option value="$PROJECT_DIR$/DailyLog/1906/0610.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2309" />
-    <option name="y" value="-178" />
-    <option name="width" value="1056" />
-    <option name="height" value="889" />
+    <option name="x" value="1692" />
+    <option name="y" value="-175" />
+    <option name="width" value="1847" />
+    <option name="height" value="1054" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -319,18 +299,19 @@
       <workItem from="1559127440980" duration="86000" />
       <workItem from="1559141048129" duration="11411000" />
       <workItem from="1559743609106" duration="848000" />
-      <workItem from="1559818457208" duration="2982000" />
+      <workItem from="1559818457208" duration="3030000" />
+      <workItem from="1559990450319" duration="614000" />
+      <workItem from="1560172952023" duration="789000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29167000" />
+    <option name="totallyTimeSpent" value="30618000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2260" y="-178" width="1135" height="1008" extended-state="0" />
-    <editor active="true" />
+    <frame x="1692" y="-175" width="1847" height="1054" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.48670945" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.4093178" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -342,7 +323,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.2" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.19027483" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="TypeScript" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -620,11 +601,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/inf/interaction/interaction.01.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="105">
+            <caret line="5" selection-start-line="5" selection-end-line="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/DailyLog/1906/0604.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="693">
             <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DailyLog/1906/0605.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="693">
+            <caret line="33" column="52" selection-start-line="33" selection-start-column="52" selection-end-line="33" selection-end-column="52" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DailyLog/1906/0606.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="231">
+            <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DailyLog/1906/0607.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1113">
+            <caret line="53" column="60" selection-start-line="53" selection-start-column="60" selection-end-line="53" selection-end-column="60" />
           </first_editor>
           <second_editor />
         </state>
@@ -643,41 +664,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DailyLog/1906/0605.md">
+    <entry file="file://$PROJECT_DIR$/DailyLog/1906/0608.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="214">
-            <caret line="33" column="52" selection-start-line="33" selection-start-column="52" selection-end-line="33" selection-end-column="52" />
+          <first_editor relative-caret-position="647">
+            <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/inf/interaction/interaction.01.md">
+    <entry file="file://$PROJECT_DIR$/DailyLog/1906/0610.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="105">
-            <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DailyLog/1906/0606.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="231">
-            <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DailyLog/1906/0607.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="210">
-            <caret line="53" column="60" selection-start-line="53" selection-start-column="60" selection-end-line="53" selection-end-column="60" />
+          <first_editor relative-caret-position="409">
+            <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
           </first_editor>
           <second_editor />
         </state>
